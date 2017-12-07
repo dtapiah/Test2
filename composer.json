@@ -1,0 +1,12 @@
+{
+    "name": "danilo/prueba",
+    "description": "Test",
+    "authors": [
+        {
+            "name": "Danilo",
+            "email": "danilo.tapiah@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
