@@ -1,6 +1,8 @@
 {
     "name": "danilo/prueba",
     "description": "Test",
+    "homepage": "https://github.com/dtapiah/Test2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Danilo",
